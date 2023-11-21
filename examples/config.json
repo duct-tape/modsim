@@ -1,0 +1,44 @@
+{
+    "0": {
+        "address": 40493,
+        "number_of_registers": 1,
+        "byteorder": ">",
+        "wordorder": "<",
+        "data_format": "16bit"
+    },
+    "1": {
+        "address": 40348,
+        "number_of_registers": 1,
+        "byteorder": ">",
+        "wordorder": "<",
+        "data_format": "16bit"
+    },
+    "2": {
+        "address": 40428,
+        "number_of_registers": 1,
+        "byteorder": ">",
+        "wordorder": "<",
+        "data_format": "16bit"
+    },
+    "3": {
+        "address": 5007,
+        "number_of_registers": 1,
+        "byteorder": ">",
+        "wordorder": "<",
+        "data_format": "16bit"
+    },
+    "4": {
+        "address": 1000,
+        "number_of_registers": 14,
+        "byteorder": ">",
+        "wordorder": ">",
+        "data_format": "32bit"
+    },
+    "5": {
+        "address": 62242,
+        "number_of_registers": 2,
+        "byteorder": ">",
+        "wordorder": ">",
+        "data_format": "32bit_float"
+    }
+}
