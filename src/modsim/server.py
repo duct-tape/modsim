@@ -33,6 +33,8 @@ class ModSimServer:
                 hr_builder.add_16bit_int(DEFAULT_VALUE)
             elif data_format == "32bit":
                 hr_builder.add_32bit_uint(DEFAULT_VALUE)
+            elif data_format == "32bit_uint":
+                hr_builder.add_32bit_uint(DEFAULT_VALUE)
             elif data_format == "32bit_float":
                 hr_builder.add_32bit_float(float(DEFAULT_VALUE))
             else:
